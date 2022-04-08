@@ -3,15 +3,11 @@ widget: hero
 widget_id: recent-posts
 headless: true
 weight: 10
-hero_media: welcome.jpg
+hero_media: angel_glasses.jpg
 design:
   columns: "1"
   css_style: null
   css_class: null
-  background:
-    image: welcome.jpg
-    image_position: center
-    image_size: cover
 ---
 <br>
 

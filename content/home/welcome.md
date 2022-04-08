@@ -3,7 +3,6 @@ widget: hero
 widget_id: recent-posts
 headless: true
 weight: 10
-title: Angel Romero Aguilar
 hero_media: welcome.jpg
 design:
   columns: "1"

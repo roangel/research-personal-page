@@ -11,4 +11,6 @@ design:
 ---
 <br>
 
-Finding new limits in the intersection of machine learning and optimal control applied to super agile autonomous quadrotor flight under the supervision of Prof. Davide Scaramuzza.
+I'm Angel Romero, I'm currently doing my PhD at the Robotics and Perception Group under the supervision of Davide Scaramuzza
+
+The main focus of my research is finding new limits in the intersection of machine learning and optimal control applied to super agile autonomous quadrotor flight.
